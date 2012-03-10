@@ -1,0 +1,9 @@
+changelog:
+
+.9.4:
+Switched from Prototype javascript library to JQuery in hopes that their display manipulation javascript will add some zing to the site
+Only software change in this release should be ajax calls, no new features or bugs should exist
+
+.9.3:
+Added notes/news display in index.php(main page) along with a link to notes/news in nav bar
+Notes/news uses updatenews.txt

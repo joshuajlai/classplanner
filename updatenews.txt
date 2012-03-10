@@ -1,0 +1,5 @@
+Feb 16, 2009
+
+Hello everyone,
+Just did a small patch to fix the curriculum viewer.  There was a problem with the algorithm I was using which was causing weird display issues wtih class orderings.
+-JJL

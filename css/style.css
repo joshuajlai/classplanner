@@ -1,0 +1,131 @@
+
+table.tableMenu{
+	border-width: 1px;
+	border-color: #1100ff;
+	border-style: dotted;
+}
+
+table.classlist{
+	border-width: 1px;
+	border-color: blue;
+	border-style: solid;
+	width: 100%;
+
+	empty-cells: show
+}
+
+table.classPlan{
+	border-width: 1px;
+	border-color: blue;
+	border-style: solid;
+	width: 100%;
+	empty-cells: show;
+}
+
+td.classPlanTD{
+	border: 1px blue solid;
+}
+
+
+div.changeClass{
+	color: blue;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+table.prerequisites{
+	border-width: 1px;
+	border-color: #1100ff;
+	border-style: solid;
+	width: 100%;
+	background-color: #E0EEEE; 
+}
+
+table.classDetails{
+	border-width: 2px;
+	border-color: grey;
+	border-style: solid;
+	background-color: #cccccc;
+}
+
+table.clickButton{
+	cursor: pointer;
+	border-width: 1px;
+	border-color: blue;
+	border-style: solid;
+	color: red;
+	background-color: white;
+}
+
+tr.classListTR{
+	cursor: pointer;
+	background-color: white;
+}
+tr.classListTRAlt{
+	cursor: pointer;
+	background-color: #aaaaaa;
+}
+th.tableHeader{
+	background-color: #cccccc;
+	text-align: left;
+}
+
+div.pagetitle{
+	font-size: x-large;
+	font-weight: bold;
+}
+
+table.subMenu{
+	background-color: #E0EEEE; 
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: blue;
+}
+
+.highlightedClassTree{
+	border-width: 2px;
+	border-color: green;
+	border-style: double;
+	color: green;
+}
+.highlightedPrerequisite{
+	border-width: 2px;
+	border-color: red;
+	border-style: double;
+	color: red;
+}
+.normalClassTree{
+	border-width: 2px;
+	border-color: blue;
+	border-style: solid;
+	color: black;
+}
+
+table.classOffering{
+	border-style: solid; 
+	border-color: blue;
+	border-width: 1px;
+	width: 100%;
+	background-color: #E0EEEE; 
+}
+
+body{
+	color: #024bb8;
+}
+
+table.nav{
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: 1px;
+	
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-bottom-width: 1px;
+	
+	width: 100%
+}
+
+div.errors{
+	color: red;
+	font-size: large;
+}

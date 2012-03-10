@@ -1,0 +1,35 @@
+ACCOUNT INFORMATION
+Plan: Basic
+Price: $6.00
+Domain: planmyclasses.com
+IP Address: 74.54.144.5 	LOGIN INFORMATION
+Domain: planmyclasses.com
+Username: joshua
+Password: juice0314
+FTP INFORMATION
+FTP: 74.54.144.5
+Username: joshua
+Password: juice0314 	
+
+NAMESERVER INFORMATION
+ns12.psipro.com: 74.54.144.10
+ns13.psipro.com: 74.54.144.11
+:
+:
+
+CLIENT AREA
+http://secure.psihost.com/billing/app-modernbill-client/
+Username: joshuajlai
+mk3139iz
+
+
+webmaster
+m4cda90ssd
+
+database="joshua_classmanager
+username="joshua_clssmng"
+password="Rp~w)zJg-plK"
+
+
+bugs
+asdf08945jl

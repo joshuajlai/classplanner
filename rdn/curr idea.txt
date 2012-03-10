@@ -1,0 +1,8 @@
+use fixed positioning from relative starter node
+
+does jquery have api calls to find position?
+
+use fixed position to build tree, will need to use math to displace boxes at particular intervals
+box width needs to be fixed
+
+use relative height positioning for boxes
